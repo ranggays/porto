@@ -828,9 +828,9 @@ function Superpower({
       ? imageSrc
       : [imageSrc]
     : number === "1"
-      ? ["/images/BRIN activity.jpg"]
+      ? ["/images/webp/BRIN activity.webp"]
       : number === "3"
-        ? ["/images/Certif SE.jpg"]
+        ? ["/images/webp/Certif SE.webp"]
         : [];
   const experienceAlt =
     imageAlt ??
@@ -1322,7 +1322,7 @@ export default function PortfolioPage() {
           body="As a Cohort Web3 Developer in the Mancer x Superteam Scholarship, I built smart-contract and frontend projects in the Solana blockchain ecosystem through hands-on learning and mentorship."
           link="View selected projects"
           tone="orange"
-          imageSrc="/images/Web3.png"
+          imageSrc="/images/webp/Web3.webp"
           imageAlt="Mancer certificate for Rangga Yovie Saputra's Token Distribution Protocol work trial"
           stats={[
             "Cohort Web3 Developer · 2026",
@@ -1349,8 +1349,8 @@ export default function PortfolioPage() {
           link="View selected projects"
           tone="purple"
           imageSrc={[
-            "/images/EM_page-0001.jpg",
-            "/images/Sertif RABRAW_page-0001.jpg",
+            "/images/webp/EM_page-0001.webp",
+            "/images/webp/Sertif RABRAW_page-0001.webp",
           ]}
           imageAlt="Certificates documenting Rangga Yovie Saputra's EM Universitas Brawijaya and RAJA Brawijaya activities"
           stats={[
@@ -1394,7 +1394,7 @@ export default function PortfolioPage() {
           <div className="footer-links">
             <a href="mailto:ranggayoviesaputra@gmail.com">Email →</a>
             <a
-              href="https://www.linkedin.com/in/rangga-yovie-saputra-52268b21/"
+              href="https://www.linkedin.com/in/rangga-yovie-saputra/"
               target="_blank"
               rel="noreferrer"
             >
