@@ -567,7 +567,7 @@ function DesktopHero() {
           </p>
         </div>
         <div className="desktop-photo draggable">
-          <img src={`${A}/profporto.jpg`} alt="Profile photo" />
+          <img src={`${A}/profporto.webp`} alt="Profile photo" />
         </div>
       </div>
     </>
