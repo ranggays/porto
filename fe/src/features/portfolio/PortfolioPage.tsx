@@ -1311,7 +1311,7 @@ export default function PortfolioPage() {
           body="At Badan Riset dan Inovasi Nasional (BRIN), I led end-to-end development of a web-based research platform, including its interactive brainstorming feature. I also built a feature that transforms PDF documents into visual concept maps and managed the project database using Supabase."
           link="View selected projects"
           stats={[
-            "Full-Stack Developer Intern · 2025–2026",
+            "Full-Stack Developer Intern · Jun 2025 – Aug 2025",
             "Badan Riset dan Inovasi Nasional (BRIN) · Indonesia",
             "Web-based research platform, interactive brainstorming, PDF-to-concept-map workflow, Supabase database",
           ]}
@@ -1325,7 +1325,7 @@ export default function PortfolioPage() {
           imageSrc="/images/webp/Web3.webp"
           imageAlt="Mancer certificate for Rangga Yovie Saputra's Token Distribution Protocol work trial"
           stats={[
-            "Cohort Web3 Developer · 2026",
+            "Cohort Web3 Developer · Apr 2026 – Jun 2026",
             "Mancer x Superteam Scholarship · Remote",
             "Solana ecosystem, smart-contract development, frontend development",
           ]}
@@ -1337,7 +1337,7 @@ export default function PortfolioPage() {
           link="View selected projects"
           tone="green"
           stats={[
-            "Data Analyst Intern · 2025",
+            "Data Analyst Intern · Aug 2025 – Dec 2025",
             "Learning Technology Lab, Faculty of Computer Science, Universitas Brawijaya · Malang, East Java",
             "Data processing, basic analysis, preliminary findings",
           ]}
