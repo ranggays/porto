@@ -1367,7 +1367,7 @@ export default function PortfolioPage() {
           </div>
           <div className="footer-icons">
             <a
-              href="https://www.linkedin.com/in/rangga-yovie-saputra-52268b21/"
+              href="https://www.linkedin.com/in/rangga-yovie-saputra/"
               target="_blank"
               rel="noreferrer"
             >
